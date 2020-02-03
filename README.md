@@ -1,3 +1,3 @@
 # ng-search2
 
-https://src.ruben80.now.sh
+https://search.ruben80.now.sh
